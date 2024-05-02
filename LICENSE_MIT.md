@@ -1,4 +1,4 @@
-Copyright (c) 2020 Michael-F-Bryan <michaelfbryan@gmail.com>
+Copyright (c) 2024 Sina Shabani <sina.sh.k78@gmail.com>
 
 Permission is hereby granted, free of charge, to any
 person obtaining a copy of this software and associated
